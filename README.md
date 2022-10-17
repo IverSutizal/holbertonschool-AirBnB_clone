@@ -72,6 +72,8 @@
  * Style guidelines: [PEP 8 (version 1.7)](https://www.python.org/dev/peps/pep-0008/) \|| [Google Style Python Docstrings](http://sphinxcontrib-napoleon.readthedocs.io/en/l\atest/example_google.html) || [WC3 Validator](https://github.com/holbertonschool/W3C-Validator)
 
  ### Authors
- Iver Sutizal
- Carlos Cantoral
- Aaron Jauregui
+* [<img src="https://avatars.githubusercontent.com/u/105623752?s=96&v=4" width=130><br><sub> Carlos Cantoral</sub>](https://github.com/carloscm2022)
+
+* [<img src="https://avatars.githubusercontent.com/u/104711420?v=4" width=130><br><sub> Iver Sutizal </sub>](https://github.com/IverSutizal)
+
+* [<img src="https://avatars.githubusercontent.com/u/101225802?v=4" width=130><br><sub> Aaron Jauregui </sub>](https://github.com/aaronJau21)
