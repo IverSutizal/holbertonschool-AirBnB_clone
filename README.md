@@ -1,5 +1,7 @@
  ### Airbnb Clone
 
+<h1 align ="center">  <img src="https://www.triada.com.pe/noticias/wp-content/uploads/2019/10/triada-airbnb-obtener-ganancias-departamento-nuevo.jpg" height="100%" width="100%"></h1>
+
  #### Description
  > This is the first phase of the Airbnb Clone: the console.
  > This repository holds a command interpreter and classes (i.e. BaseModel class
@@ -70,6 +72,8 @@
  * Style guidelines: [PEP 8 (version 1.7)](https://www.python.org/dev/peps/pep-0008/) \|| [Google Style Python Docstrings](http://sphinxcontrib-napoleon.readthedocs.io/en/l\atest/example_google.html) || [WC3 Validator](https://github.com/holbertonschool/W3C-Validator)
 
  ### Authors
- Iver Sutizal[![M](https://miro.medium.com/max/2400/1*dlRN20fgRsBxoDh8w9DLNA.jpeg)](https://twitter.com/IverSutizal)
- Carlos Cantoral[![M](https://twitter.com/CarlosCantoral9/photo)](https://twitter.com/Carlos)
- Aaron Jauregui [![M](https://twitter.com/AaronJa70890804/photo)](https://twitter.com/IverSutizal))
+* [<img src="https://avatars.githubusercontent.com/u/105623752?s=96&v=4" width=130><br><sub> Carlos Cantoral</sub>](https://github.com/carloscm2022)
+
+* [<img src="https://avatars.githubusercontent.com/u/104711420?v=4" width=130><br><sub> Iver Sutizal </sub>](https://github.com/IverSutizal)
+
+* [<img src="https://avatars.githubusercontent.com/u/101225802?v=4" width=130><br><sub> Aaron Jauregui </sub>](https://github.com/aaronJau21)
